@@ -1,4 +1,4 @@
-- 👋 Hello! I am Daniel Mayer, i am from germany and now starting my studies in applied informatics! (2022/2023)
+- 👋 Hello! I am Daniel Mayer, i am from germany and studying applied informatics! (2022/2023)
 - 👀 I’m interested in softwaredevelopment, chess and gaming.
 - 🌱 I’m currently learning java and other technologies at university.
 - ⚙️ Currently working as a software consultant
