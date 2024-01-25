@@ -1,6 +1,8 @@
 - 👋 Hello! I am Daniel Mayer, i am from germany and now starting my studies in applied informatics! (2022/2023)
-- 👀 I’m interested in softwaredevelopment, chess and java.
-- 🌱 I’m currently learning java and later other technologies at university.
+- 👀 I’m interested in softwaredevelopment, chess and gaming.
+- 🌱 I’m currently learning java and other technologies at university.
+- ⚙️ Currently working as a software consultant
+- 💻 Learning and using C# 
 - 📫 You can reach me by E-Mail: dan.mayer435@gmail.com
 
 <!---
