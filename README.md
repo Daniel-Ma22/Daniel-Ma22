@@ -14,7 +14,6 @@ My programming languages are:
 Currently learning
 - Rust (Private)
 - Typescript (Work)
-- csscript (Work)
 
 
 <!---
