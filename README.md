@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello! 
+I am Daniel, but ya can call me Griefe too!
 
-<!--
-**Daniel-Ma22/Daniel-Ma22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m interested in Softwaredevelopment, reading, writing, chess, dnd and gaming :D
 
-Here are some ideas to get you started:
+Currently a working student => software consultant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I speak german, english and a bit of russian
+
+My programming languages are:
+
+-    Java (University)
+-    C# (Work)
+-    Lua (Private)
+
+Currently learning
+
+-    Javascript (For web dev project related to university, and future work)
+
