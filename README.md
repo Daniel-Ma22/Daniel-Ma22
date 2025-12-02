@@ -1,19 +1,23 @@
 ## Hello! 
-I am Daniel, but ya can call me Griefe too!
+I am Daniel, but ya can call me Grief or Griefe too!
 
 I’m interested in Softwaredevelopment, reading, writing, chess, dnd and gaming :D
-
-Currently a working student => software consultant
 
 I speak german, english and a bit of russian
 
 My programming languages are:
 
--    Java (University)
--    C# (Work)
+-    C# (Work) 
 -    Lua (Private)
+-    Rust (Currently learning)
 
-Currently learning
 
--    Javascript (For web dev project related to university, and future work)
+I have experience with:
+-    Docker and Kubernetes
+-    PostgreSQL, MSSQL and SQLite
+-    Git 
+-    Linux (Specifically EndeavourOS, an arch based system)
+-    Github, Github Actions
+-    SvelteKit and Blazor for webapps
 
+Welcome to my profile :3
