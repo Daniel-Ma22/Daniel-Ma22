@@ -1,23 +1,27 @@
 ## Hello! 
 I am Daniel, but ya can call me Grief or Griefe too!
 
-I’m interested in Softwaredevelopment, reading, writing, chess, dnd and gaming :D
+I’m interested in a bunch of random stuff. From pixel art and videogames over to reading and baking.  
 
-I speak german, english and a bit of russian
+I speak german, english and a lil bit of russian
 
 My programming languages are:
 
--    C# (Work) 
+-    C# (Previous Work) 
 -    Lua (Private)
--    Rust (Currently learning)
+-    Go (Private)
 
 
 I have experience with:
--    Docker and Kubernetes
--    PostgreSQL, MSSQL and SQLite
--    Git 
+-    Docker, Swarm and Kubernetes
+-    PostgreSQL, MSSQL , Redis and SQLite
 -    Linux (Specifically EndeavourOS, an arch based system)
 -    Github, Github Actions
--    SvelteKit and Blazor for webapps
+-    SvelteKit for JS
+-    Blazor for C# Webapplications
+-    PICO8 (Lua, gamedevelopment)
+-    Postman
+-    Caddy
 
-Welcome to my profile :3
+
+Im attempting to go into CLI, TUI and DevOps right now :D
